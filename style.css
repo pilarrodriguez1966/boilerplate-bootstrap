@@ -1,0 +1,8 @@
+.figura-uva{
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.figura-uva img{
+    width: 100%;
+}
